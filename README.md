@@ -1,2 +1,0 @@
-# mrflanderson.github.io
-web
